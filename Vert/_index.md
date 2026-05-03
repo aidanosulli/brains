@@ -1,10 +1,7 @@
 # Vert — Brain Index
 
-*Last updated: 2026-05-02 — 4 notes*
+*Last updated: 2026-05-02 — 1 note*
 
 | Note | Source Type | Date | Link |
 |---|---|---|---|
-| [20260502_231124.md](https://github.com/aidanosulli/brains/blob/main/Vert/notes/20260502_231124.md) | instagram | 2026-05-02 | [view](https://github.com/aidanosulli/brains/blob/main/Vert/notes/20260502_231124.md) |
-| [20260502_231049.md](https://github.com/aidanosulli/brains/blob/main/Vert/notes/20260502_231049.md) | youtube | 2026-05-02 | [view](https://github.com/aidanosulli/brains/blob/main/Vert/notes/20260502_231049.md) |
-| [20260502_230553.md](https://github.com/aidanosulli/brains/blob/main/Vert/notes/20260502_230553.md) | youtube | 2026-05-02 | [view](https://github.com/aidanosulli/brains/blob/main/Vert/notes/20260502_230553.md) |
-| [20260502_225600.md](https://github.com/aidanosulli/brains/blob/main/Vert/notes/20260502_225600.md) | youtube | 2026-05-02 | [view](https://github.com/aidanosulli/brains/blob/main/Vert/notes/20260502_225600.md) |
+| [20260502_231331.md](https://github.com/aidanosulli/brains/blob/main/Vert/notes/20260502_231331.md) | youtube | 2026-05-02 | [view](https://github.com/aidanosulli/brains/blob/main/Vert/notes/20260502_231331.md) |
