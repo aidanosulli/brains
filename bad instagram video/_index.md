@@ -1,0 +1,21 @@
+# Bad Instagram Video — 1 source — Last updated 2026-05-11
+
+## Instagram — 2026-05-11
+
+**Source:** https://www.instagram.com/p/DXhH3O1DccH/  
+**Added:** 2026-05-11
+
+# Bad Instagram Video — Instagram Note
+
+> **Source:** https://www.instagram.com/p/DXhH3O1DccH/
+> **Date:** 2026-05-11
+
+It looks like the content you've shared is just a single promotional call-to-action phrase ("Comment THP and I'll send you my program") — there's no substantive information to distill into a structured note.
+
+Could you paste the actual content you'd like me to process? For example:
+- An article or blog post
+- A video transcript
+- Notes from a book or course
+- A podcast summary
+
+Happy to help once the full content is included!
