@@ -1,0 +1,51 @@
+# Foot In Front Of Center Of Mass — 1 source — Last updated 2026-05-11
+
+## Instagram — 2026-05-11
+
+**Source:** https://www.instagram.com/p/DVwbQkkkSNE/  
+**Added:** 2026-05-11
+
+# Foot In Front Of Center Of Mass — Instagram Note
+
+> **Source:** https://www.instagram.com/p/DVwbQkkkSNE/
+> **Date:** 2026-05-11
+
+# Stop Braking on Your Penultimate Step
+
+## Core Principles
+
+- The penultimate step (second-to-last step before takeoff/contact) is a **loading and acceleration phase**, not a deceleration point
+- Momentum built during approach should be *transferred into* the jump/action — braking dissipates this energy wastefully
+- The penultimate step should be **longer and lower** than the final step, allowing the body to sink and load the leg like a spring
+- The final step should then be **shorter and faster**, snapping the body upward and converting horizontal velocity into vertical force
+
+## Key Frameworks & Progressions
+
+- **Penultimate → Final Step Mechanics:**
+  - Penultimate: longer stride, lowered centre of mass, heel/mid-foot contact to absorb and store energy
+  - Final step: shorter, aggressive, ball-of-foot contact, driving upward
+- **Energy Transfer Model:**
+  - Approach builds horizontal momentum →
+  - Penultimate step loads the system (like compressing a spring) →
+  - Final step releases that energy vertically or into the target movement
+
+## Actionable Advice
+
+- Consciously **lengthen and lower** your penultimate step during drills and practice
+- Record yourself from the side to check whether your hips drop and rise correctly across the last two steps
+- Drill the **"gather step"** pattern in isolation: slow approach, exaggerated penultimate dip, explosive final step
+- Train approach runs at sub-maximal speed first to groove the mechanics before adding full speed
+
+## Things to Avoid
+
+- **Planting/braking hard** on the penultimate step — this kills momentum and reduces jump height/power output
+- **Keeping both strides the same length** — fails to create the load-release dynamic
+- **Standing too upright** on the penultimate — prevents proper centre-of-mass lowering and spring loading
+- Rushing the penultimate step by making it *shorter* instead of longer under fatigue or nerves
+
+## Key Takeaways
+
+- The penultimate step is an **energy storage mechanism**, not a checkpoint — treat it as part of the explosive sequence, not a pause before it
+- Braking on the penultimate is one of the most common and costly mechanical errors in jumping and athletic approach work
+- Proper penultimate mechanics require a **longer, lower step followed by a shorter, faster final step**
+- Fixing this single mechanical flaw can produce immediate, measurable improvements in jump height and approach efficiency
