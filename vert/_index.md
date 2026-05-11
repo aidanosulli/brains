@@ -12,4 +12,4 @@
 
 It looks like the content you intended to share came through as just the word **"string"** — likely a placeholder or paste error.
 
-Could you share the actual content you'd like me to distill? I'm ready to turn it into a structured markdown note as soon as you do!
+Could you share the actual content you'd like me to distill? Once you do, I'll produce the structured markdown note right away.
