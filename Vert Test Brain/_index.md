@@ -1,0 +1,82 @@
+# Vert Test Brain — 1 source — Last updated 2026-05-16
+
+## Youtube — 2026-05-16
+
+**Source:** https://www.youtube.com/watch?v=dg5NfeWAapw  
+**Added:** 2026-05-16
+
+# Vert Test Brain — Youtube Note
+
+> **Source:** https://www.youtube.com/watch?v=dg5NfeWAapw
+> **Date:** 2026-05-16
+
+# Nate Kenny: The Making of an Elite Jumper
+
+## Core Principles
+
+- **Obsession over talent** — Elite jumpers are not necessarily born gifted; they are defined by an irrational love for the craft practiced without external validation
+- **Long-term compounding** — Years of foundational work (jump reps, movement quality, strength) may show no visible progress but create the biological and neurological substrate for explosive later gains
+- **Intrinsic motivation is non-negotiable** — Progress sustained through love of the craft outlasts progress driven by external rewards (views, claps, recognition)
+- **Consistency through adversity** — Injuries, plateaus, bullying, and lack of traction are normal checkpoints; quitting at these points is the primary reason most athletes never reach their potential
+- **Late bloomers are real** — Not maturing early is not a disqualifier; the gap closes when physical maturity meets years of accumulated skill and strength
+
+---
+
+## Key Frameworks & Progressions
+
+### Nate's Development Timeline
+- **Age 3–2017:** Dunking on mini hoops; jumping every day; no external motivation; builds foundational technique and tendon stiffness
+- **2017–2019:** Obsessed but not progressing visibly; consuming jump content (including bad/gimmicky advice); still accumulating thousands of quality jump reps
+- **2020:** First injury (MCL sprain) → 1 month off → returns with new account (Hoopin Nate) → viral traction on ESPN, House of Highlights
+- **2021:** Blows up online; develops knee tendinopathy (common at 13–14 in high-jumping males); reaches out for coaching; begins structured training **November 14th**
+  - Baseline: ~7ft–7'6" dunk height, 87" touch, 27" vertical
+- **2022:** Begins lifting; bodyweight fundamentals first; consistently dunks 8ft, first dunk at 8'6"; starts high school (~5'4"); faces online bullying; takes brief reset then returns
+- **2023:** Technique improves; adds power cleans, back squats, front squats, RDLs; Google commercial (aired during NBA Playoffs); Gatorade campaign; still not very strong but building base
+- **2024:** Strength becomes a real focus; first meeting with coach at dunk camp; 35" vertical tested; grabs and hangs on 10ft rim; first dunks at 9'6" and 9'9"; squats 225 lbs; power cleans 155 lbs; realistic 10ft attempts
+- **2025:** 
+  - March 17 — first official 10ft dunk
+  - May 24 — second 10ft dunk (gap is normal post-first-dunk)
+  - Grows to 5'8"; first legitimate punch dunk; 38" vertical
+  - Power clean: 155 → 185 → 205 → 210 → **220 lbs**
+  - Back squat: 225 → 275 → **285 lbs** (deep)
+  - Vertical: **41 inches**
+  - Executing: one-handers, two-handers, 360 reverse pump
+
+### Coaching Philosophy (John Evans' Model)
+1. **Assess background first** — understand jump history, maturity stage, and movement foundation before programming
+2. **Slow cook the progression** — especially for athletes with high jump volume but underdeveloped strength; don't rush loading
+3. **Bodyweight before barbell** — establish movement quality (squat, clean patterns) before adding load
+4. **Key lifts for jumping:** back squat, front squat, power clean, RDL
+5. **Three pillars required simultaneously:** good movement quality + high jump volume + increasing strength
+
+---
+
+## Actionable Advice
+
+- **Jump every day at a young age** — accumulating thousands of reps builds technique, stiffens tendons, and programs motor pathways even when no visible progress occurs
+- **Don't hodgepodge programs** — follow one structured, credible plan rather than mixing gimmicky content from multiple sources
+- **Keep posting/tracking even with zero traction** — documenting progress builds self-awareness and technique awareness independent of external feedback
+- **After a first dunk, expect a long gap before the second** — trust the process; adrenaline spikes during firsts are hard to replicate; continued training is the only solution
+- **Prioritise the power clean and deep squat** — these are specifically called out as integral to athletic development for jumping
+- **When injured, take the prescribed time off then return** — a month off is recoverable; quitting is not
+
+---
+
+## Things to Avoid
+
+- **Consuming gimmicky or salesy jump training content** — widespread bad information online will waste training time without producing results
+- **Mixing pieces from multiple programs** without a coherent structure ("hodgepodging")
+- **Quitting at the first injury** — this is the most common point where developing athletes drop off permanently
+- **Seeking external validation as primary motivation** — views, followers, and social traction are unreliable motivators; they disappear during plateaus
+- **Rushing strength loading** — athletes with high jump volume but low strength maturity need a "slow cook" approach; premature loading undermines the foundation
+- **Interpreting a long plateau as failure** — years of no visible vertical progress can still be productive if movement quality and volume are accumulating
+
+---
+
+## Key Takeaways
+
+- **Talent is not the primary variable** — Nate had no elite physical gifts at the start; consistent obsession over ~10 years produced a 41" vertical at 5'8"
+- **Foundational years compound invisibly** — jump reps and movement work done from ages 3–15 paid off explosively once strength maturity arrived; the investment was real even when results weren't visible
+- **Three pillars must coexist:** high jump volume, quality movement patterns, and progressive strength training — neglecting any one stalls development
+- **Resilience at key failure points is the true differentiator** — injury, bullying, plateaus, and lack of attention are where most athletes quit; Nate's story is defined by not quitting at each of these
+- **Late bloomers can reach elite levels** — physical maturity lag is not permanent; when it arrives, it meets years of accumulated skill and the result is rapid, compounding progress
