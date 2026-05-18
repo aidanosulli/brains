@@ -1,4 +1,24 @@
-# Short Form Insights — 7 sources — Last updated 2026-05-18
+# Short Form Insights — 8 sources — Last updated 2026-05-18
+
+## Instagram — 2026-05-18
+
+**Source:** https://www.instagram.com/reel/DTvlML1Eu4e/?igsh=MTU3dWNicXRvaGFocw==  
+**Added:** 2026-05-18
+
+# Short Form Insights — Instagram Note
+
+> **Source:** https://www.instagram.com/reel/DTvlML1Eu4e/?igsh=MTU3dWNicXRvaGFocw==
+> **Date:** 2026-05-18
+
+## Key Takeaways
+
+- The content provided contains no substantive information to distill — only a caption referencing unavailable audio and a humorous comment about a boat purchase.
+
+---
+
+> **Note:** No structured note could be produced from this submission. Please provide the full transcript, article, video captions, or written content you'd like distilled.
+
+---
 
 ## Article — 2026-05-18
 
