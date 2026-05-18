@@ -1,4 +1,49 @@
-# Short Form Insights — 2 sources — Last updated 2026-05-18
+# Short Form Insights — 3 sources — Last updated 2026-05-18
+
+## Tiktok — 2026-05-18
+
+**Source:** https://www.tiktok.com/@the.sailing.acade/video/7639786516046187806  
+**Added:** 2026-05-18
+
+# Short Form Insights — Tiktok Note
+
+> **Source:** https://www.tiktok.com/@the.sailing.acade/video/7639786516046187806
+> **Date:** 2026-05-18
+
+# Sailing Upwind: Course Monitoring Fundamentals
+
+## Key Frameworks & Progressions
+
+**Three-Point Upwind Monitoring System** — check these continuously while on an upwind course:
+
+1. **Angle of Heel**
+   - Boat should maintain a consistent heel when sailing upwind
+   - If heel suddenly drops off → likely in irons or sail trim is incorrect
+
+2. **Boat Speed**
+   - Dropping speed = pointing too high / entering the no-sail zone
+   - Correction: fall off (bear away) to rebuild speed
+
+3. **Jib Telltales** (leading edge of jib)
+   - Jib breaks before the mainsail — use it as your primary indicator
+   - **Outside telltale breaks** → head up slightly
+   - **Inside telltale breaks** → fall off slightly
+   - Note: mainsail telltales sit on the **aft (trailing) edge**
+
+## Actionable Advice
+
+- Monitor all three indicators (heel, speed, telltales) **continuously** on an upwind course — not just occasionally
+- Assign crew to trim both jib and mainsail, but **prioritise jib telltales** as your real-time pointing reference
+- Use telltale feedback as a micro-adjustment tool — small, reactive heading changes keep you in the optimal sailing lane
+
+## Key Takeaways
+
+- Consistent heel angle is a quick signal of whether the boat is balanced and in a good sailing position upwind
+- Boat speed is an early warning system for over-pointing — speed loss should trigger an immediate bear-away
+- The jib telltale is the most sensitive and actionable feedback tool for fine-tuning upwind heading
+- All three signals work together; monitoring them in combination keeps the boat fast and on course
+
+---
 
 ## Tiktok — 2026-05-18
 
