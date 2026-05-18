@@ -1,4 +1,26 @@
-# Short Form Insights — 6 sources — Last updated 2026-05-18
+# Short Form Insights — 7 sources — Last updated 2026-05-18
+
+## Article — 2026-05-18
+
+**Source:** https://www.scribd.com/document/768231313/The-Annapolis-Book-of-Seamanship  
+**Added:** 2026-05-18
+
+# Short Form Insights — Article Note
+
+> **Source:** https://www.scribd.com/document/768231313/The-Annapolis-Book-of-Seamanship
+> **Date:** 2026-05-18
+
+## Key Takeaways
+
+- No content could be extracted — the source page failed to load (JavaScript disabled or blocked).
+- Disable ad blockers, enable JavaScript, or try a different browser to access the content.
+- Re-submit once the page loads successfully for a proper distillation.
+
+---
+
+*Note: No other sections have been populated as there is no substantive content to reference.*
+
+---
 
 ## Article — 2026-05-18
 
