@@ -1,4 +1,24 @@
-# Short Form Insights — 4 sources — Last updated 2026-05-18
+# Short Form Insights — 5 sources — Last updated 2026-05-18
+
+## Article — 2026-05-18
+
+**Source:** https://archive.org/details/The_Complete_Sailing_Manual_3rd_Edition_by_Steve_Sleight  
+**Added:** 2026-05-18
+
+# Short Form Insights — Article Note
+
+> **Source:** https://archive.org/details/The_Complete_Sailing_Manual_3rd_Edition_by_Steve_Sleight
+> **Date:** 2026-05-18
+
+The content provided contains no substantive information to distill — it appears to be **interface/metadata text from the Internet Archive (archive.org)**, including UI prompts, upload metadata, and site navigation copy.
+
+There are no concepts, frameworks, advice, or insights present to structure into a reference note.
+
+---
+
+**If you meant to share different content**, please paste the actual article, transcript, book excerpt, or note you'd like distilled, and I'll produce the full structured markdown note for you.
+
+---
 
 ## Article — 2026-05-18
 
