@@ -1,4 +1,42 @@
-# Short Form Insights — 1 source — Last updated 2026-05-18
+# Short Form Insights — 2 sources — Last updated 2026-05-18
+
+## Tiktok — 2026-05-18
+
+**Source:** https://www.tiktok.com/@londongittisarn/video/7512256820216466734  
+**Added:** 2026-05-18
+
+# Short Form Insights — Tiktok Note
+
+> **Source:** https://www.tiktok.com/@londongittisarn/video/7512256820216466734
+> **Date:** 2026-05-18
+
+# Sailing Basics – Harbor to Ocean Vlog
+
+## Key Frameworks & Progressions
+
+- **Orientation on the boat:**
+  - Left side = **Port**
+  - Right side = **Starboard**
+- **Tacking:** the maneuver where the sail switches sides
+  - Crew should sit on the **opposite side from the sail** to balance the boat
+  - When tacking, move to the correct side as the sail crosses over
+- **Hiking:** a technique used when wind picks up
+  - Pull on the main sail and lean body out over the water to counterbalance the heel of the boat
+
+## Actionable Advice
+
+- Learn and use correct nautical terminology before heading out (port/starboard, tacking) — especially important once conditions get hectic in open water
+- When sailing in wind, practice hiking to keep the boat balanced and responsive
+- Sit on the windward side (opposite the sail) as a default crew position
+
+## Key Takeaways
+
+- **Port = left, starboard = right** — foundational orientation every sailor must know
+- **Tacking** is the sail switching sides; crew must move with it to maintain balance
+- **Hiking** — leaning out over the water while holding the main — is a core skill and one of the most exhilarating parts of sailing
+- Always learn basic lingo and safety positions while still in the calm of the harbour before heading into open water
+
+---
 
 ## Tiktok — 2026-05-18
 
