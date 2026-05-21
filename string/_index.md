@@ -1,4 +1,36 @@
-# String — 3 sources — Last updated 2026-05-21
+# String — 5 sources — Last updated 2026-05-21
+
+## String — 2026-05-21
+
+**Source:** string  
+**Added:** 2026-05-21
+
+# Empty or Placeholder Content Requires No Structured Note
+
+> **Source:** string
+> **Date:** 2026-05-21
+
+The input provided contains no meaningful content to distill — only the placeholder string **"string"**.
+
+Please provide the actual content you'd like converted into a structured markdown note, and I'll process it immediately.
+
+---
+
+## String — 2026-05-21
+
+**Source:** string  
+**Added:** 2026-05-21
+
+# No Content Provided — Placeholder Input Detected
+
+> **Source:** string
+> **Date:** 2026-05-21
+
+## Key Takeaways
+- The input provided ("string") contains no meaningful content to distill.
+- To generate a useful second-brain note, paste the actual article, transcript, or text you want processed.
+
+---
 
 ## String — 2026-05-21
 
