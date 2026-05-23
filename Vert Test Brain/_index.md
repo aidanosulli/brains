@@ -1,4 +1,136 @@
-# Vert Test Brain — 3 sources — Last updated 2026-05-23
+# Vert Test Brain — 4 sources — Last updated 2026-05-23
+
+## Youtube — 2026-05-23
+
+**Source:** https://https://www.youtube.com/watch?v=LEfEr2eGBds  
+**Added:** 2026-05-23
+
+# Three Vertical Jump Workouts: Strength, Power, and Elasticity
+
+> **Source:** https://https://www.youtube.com/watch?v=LEfEr2eGBds
+> **Date:** 2026-05-23
+
+## Core Principles
+
+- **Three physical qualities** determine vertical jump height: max strength, power, and elasticity — each must be trained distinctly
+- **Four Laws of Adaptation** govern all training:
+  - *Progressive Overload* — training must get progressively harder
+  - *Variety* — change stimuli to keep causing adaptation
+  - *Specificity* — more specific exercises = more transfer, but also more fatigue
+  - *Individuality* — athletes respond differently to the same stimulus
+- **Strength is foundational** — you must overcome your own bodyweight (e.g., 185 lb athlete must essentially squat 185 lb explosively to jump 50+ inches)
+- **Max strength improves rate of force development (RFD)** — especially for beginners; diminishing returns with advanced athletes
+- **Strength is determined by**: muscle size + nervous system efficiency
+- **Intensity factors**: load, velocity, range of motion, intent, proximity to failure
+- **Shorter athletes need higher relative strength** than taller athletes for equivalent transfer — due to lever/torque differences
+- **Long Conjugate Sequence System**: all qualities (strength, power, elasticity, speed) are touched in every workout phase — volume emphasis shifts, not exclusivity
+- **Plyometrics train the nervous system**, NOT tendons — max strength work makes tendons stiffer; plyos train the nervous system to contract faster and harder to load those tendons
+
+---
+
+## Key Frameworks & Progressions
+
+### Warm-Up Structure (same for all three workouts)
+1. **Isometrics** — 3–5 sets × 30–45 sec for knee and Achilles
+   - ~70% max voluntary contraction (should feel ~15 sec remaining at end of set)
+   - Skip if: history of cartilage/meniscus/ligament issues, or no tendon pain history
+2. **General warm-up** — 5–10 min low-effort biking or jogging (light sweat)
+3. **Jump dynamic flexibility** — 5–10 reps each exercise (no static stretching — reduces power output)
+4. **Sprint development drills** — low plyometric load, coordination-focused (e.g., A/C skips)
+5. **Sport-specific ramp-up** — gradually increase intensity until session intensity is reached
+
+---
+
+### Workout 1: Max Strength
+**Goal**: Nervous system efficiency + force production capacity
+
+| Exercise | Sets × Reps | Intensity |
+|---|---|---|
+| Hill Sprints | 6 × 15 m | ~1 min rest per 10 m |
+| Barbell Deadlift | 5 × 3 | Last 3 sets @ 75% 1RM |
+| Barbell Back Squat | 4 × 4 | Last 2 sets @ 80% 1RM |
+| Nordic Hamstring Curl | 2 × 5 | Moderate |
+
+- Build to working sets by increasing ~20% per set, starting at 30–50% load
+- Keep hamstring/calf volume low — sprinting already taxes these
+
+---
+
+### Workout 2: Power
+**Goal**: Bridge strength → elasticity via rate of force development
+
+| Exercise | Sets × Reps | Intensity |
+|---|---|---|
+| Bounding | 1 × 6–8 reps | Maintenance volume only |
+| Clean Pull | 5 × 2 | Last 2 sets @ 100% power clean max |
+| Barbell Back Squat (3-sec pause) | 4 × 4 | 70% 1RM |
+| Barbell Hip Thrust | 2 × 8 | Moderate |
+| Calf Raise | 2 × 8 | Moderate |
+
+- **Clean pull cues**: moderate speed off floor → shoot knees back → feel hamstring stretch → jump as hard as possible past kneecap → keep arms straight throughout
+- **Strength-speed**: heavier load moved quickly (e.g., power clean @ 70%)
+- **Speed-strength**: light load moved quickly (e.g., squat jump @ 20%)
+
+---
+
+### Workout 3: Elasticity
+**Goal**: Train stretch-shortening cycle and nervous system speed
+
+| Exercise | Sets × Reps | Notes |
+|---|---|---|
+| Flat Sprints | 6 × 30 m | Upright, not hill — short ground contacts |
+| Skips for Distance | 3 × 60 m | Max intent, redirect energy instantly |
+| Barbell Squat Jumps | 5 × 4 | 30% of deep squat max |
+| RDL | 4 × 6 | Light weight, move very quickly |
+
+- Fatigue here is **neurological**, not muscular — feels different from strength work
+- Do not begin this phase until 2–3 months of strength/power work is complete
+
+---
+
+### Periodisation (Force-Velocity Curve Surfing)
+- Month 1: Max Strength (low velocity, high force end of curve)
+- Progress across months toward elasticity (high velocity, low force end)
+- Each phase sets up greater gains in the next phase
+- After elasticity phase: restart the cycle
+
+---
+
+## Actionable Advice
+
+- **Lift with true intensity** — by end of working sets, you should have only 1–2 reps in reserve; if it feels easy, you're undertrained
+- **Check your deep squat max** — if it's barely above bodyweight, address strength before anything else
+- **Shorter athletes**: aim for strength numbers *higher* than taller athletes of similar jump goals (e.g., if 5'9", don't just match Isaiah's numbers — exceed them relatively)
+- **Deadlift form first**: if hamstring flexibility prevents a flat back, pull from blocks and stretch hamstrings daily
+- **Apply max intent on every rep** — this recruits type II muscle fibres and makes them faster and larger over time
+- **Identify your deficit** before choosing a programme:
+  - Strong but not bouncy → prioritise power then elasticity work
+  - Moderate jumper/fast runner but weak → start with max strength
+  - Deficient in all areas → periodise from strength through to elasticity, then repeat
+
+---
+
+## Things to Avoid
+
+- **Static stretching immediately before lifting or jumping** — reduces force and power output short-term
+- **Excessive hamstring/calf volume** when sprinting is already in the programme — increases injury risk unnecessarily
+- **Yanking the bar off the floor** in clean pulls — use moderate speed, controlled first pull
+- **Early arm pull** in power clean — keep arms straight through the pull to train correct motor pattern
+- **Jumping into elastic/speed work too early** — without 2–3 months of strength and power base, the transfer is minimal
+- **Training with insufficient intensity** — easy sets do not cause the adaptation needed to break plateaus
+- **Skipping isometrics if you have tendon pain** — at the right intensity/angle/duration they should produce an immediate pain reduction
+
+---
+
+## Key Takeaways
+
+- Vertical jump development requires **three distinct phases**: max strength → power → elasticity, in that order, as each phase amplifies the next
+- **Strength is the lowest-hanging fruit** — most plateaued athletes are simply not lifting heavy enough; a deep squat barely above bodyweight is a red flag
+- The **warm-up is a training stimulus**, not just injury prevention — isometrics, dynamic flexibility, and sprint drills all contribute to performance gains
+- **Plyometrics train the nervous system; heavy lifting trains the tendons** — both are essential and cannot substitute for each other
+- **Deficit identification is critical** — training the wrong quality wastes months; diagnose weaknesses first and target them directly
+
+---
 
 ## Youtube — 2026-05-23
 
