@@ -1,4 +1,20 @@
-# String — 2 sources — Last updated 2026-05-23
+# String — 3 sources — Last updated 2026-05-23
+
+## Text — 2026-05-23
+
+**Source:** https://www.youtube.com/watch?v=LEfEr2eGBds  
+**Added:** 2026-05-23
+
+# No Content Provided — Input Was Empty String
+
+> **Source:** https://www.youtube.com/watch?v=LEfEr2eGBds
+> **Date:** 2026-05-23
+
+> ⚠️ **Note:** The content submitted for distillation was an empty string. There is nothing to summarise or structure.
+
+**To use this assistant effectively, paste the actual content you want distilled** (e.g. an article, transcript, notes, book chapter, etc.) and resubmit.
+
+---
 
 ## Text — 2026-05-23
 
