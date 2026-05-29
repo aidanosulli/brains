@@ -2,23 +2,22 @@
 
 ## What this brain covers
 
-The Video Research Collection contains practical instructional knowledge drawn from video content covering topics related to sailing and watercraft handling. Based on the available material, it includes detailed technical guidance on maneuvering specific types of vessels, such as catamarans, with a focus on techniques like tacking, speed management, and sail control. The collection emphasizes actionable frameworks and step-by-step progressions that sailors can apply in real situations, as well as the underlying principles that explain why certain maneuvers behave differently across vessel types. It appears to be oriented toward intermediate to advanced practitioners who want to deepen their understanding of sailing mechanics and crew coordination.
+The Video Research Collection contains practical sailing knowledge focused on catamaran handling techniques. It covers the mechanics and crew coordination required to execute smooth tacks on catamarans, including the key differences between catamaran and monohull sailing behavior. The collection addresses specific hazards like wind veining and how to counter them through techniques such as backwinding the jib and steering past the target angle. It also includes preparatory steps and angle guidelines for setting up a successful tack, making it a resource oriented toward intermediate sailors looking to improve their technique on multi-hull vessels.
 
 ## Sources (1)
 
 | Title | Type | Confidence | Added |
 |---|---|---|---|
-| How to Tack a Catamaran Smoothly and Avoid Wind Veining | Youtube | medium | 2026-05-29 |
+| How to Tack a Catamaran Smoothly — Crew Roles and Technique | Youtube | medium | 2026-05-29 |
 
 ## Key Themes
 
 - catamaran-tacking
-- close-haul-positioning
-- crew-coordination
-- gradual-arc-turn
+- crew-roles-sailing
 - helm-communication
-- jib-sheet-management
-- speed-maintenance
+- jib-backwinding
+- pre-tack-setup
+- smooth-turn-technique
 - wind-veining
 
 ---
