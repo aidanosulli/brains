@@ -2,4 +2,4 @@
 
 | Note | Source | Added |
 |---|---|---|
-| [How to Tack a Catamaran Smoothly and Avoid Wind Veining](notes/yt_how-to-tack-a-catamaran-smoothly-and-avoid-wind-ve.md) | https://www.youtube.com/watch?v=3NMS96EsfOQ | 2026-05-29 |
+| [How to Tack a Catamaran Smoothly — Crew Roles and Technique](notes/yt_how-to-tack-a-catamaran-smoothly-crew-roles-and-te.md) | https://www.youtube.com/watch?v=3NMS96EsfOQ | 2026-05-29 |
