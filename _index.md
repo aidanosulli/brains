@@ -1,5 +1,5 @@
-# Youtube Brain — 1 source — Last updated 2026-06-01
+# Vertical Jump Training — 1 source — Last updated 2026-06-01
 
 | Note | Source | Added |
 |---|---|---|
-| [How to Train Tendons as Springs for Higher Jumping](notes/yt_how-to-train-tendons-as-springs-for-higher-jumping.md) | https://www.youtube.com/watch?v=lTy_1iimZEE | 2026-06-01 |
+| [Standing vs Max Vertical Jump — Understanding the Key Distinctions](notes/tiktok_standing-vs-max-vertical-jump-understanding-the-ke.md) | https://www.tiktok.com/@jumpsbychi/video/7564848380271283487 | 2026-06-01 |
