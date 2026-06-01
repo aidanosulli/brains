@@ -13,79 +13,94 @@ verified: 2026-06-01
 > **Source:** https://www.youtube.com/watch?v=lTy_1iimZEE
 > **Date:** 2026-06-01
 
-CONFIDENCE: medium
-
 ## Core Principles
 
-- Tendons are composed of wavy collagen fibres that straighten under load, acting as springs; more cross-links between fibres = greater elasticity and stiffness
-- The tendon force-deformation curve has three regions: **toe** (slack removal), **linear** (spring-like energy storage, ~6–8% deformation), and **ultimate failure** (damage that spurs remodelling)
-- The musculotendinous unit = muscle (motor) + tendon (spring); both must be trained but serve distinct roles
-- Tendons store and release elastic energy far faster than muscles can contract (~80ms ground contact during sprinting — the muscle has no time to cycle eccentrically)
-- Pre-tension (muscle activation before ground contact) is critical: it stiffens the tendon so energy is stored and released, not dissipated
-- **Muscle-end of tendon** = more compliant, high adaptation potential; **bone-end** = stiffer, more structural — both regions need targeted training
+- Tendons are composed of collagen fibres that shift from a wavy (crimped) to straight (parallel) configuration under load — this structural change creates spring-like elastic energy storage
+- **Cross-links** between collagen fibres determine tendon elasticity; more cross-links in parallel = stiffer, more efficient springs
+- The tendon force-deformation curve has three regions:
+  - **Toe region** — slack removal, fibres uncrimping
+  - **Linear region** — high force per unit of elongation; ~6–8% deformation; optimal elastic energy zone
+  - **Ultimate failure** — micro-damage that signals tendon remodelling and adaptation
+- The **musculotendinous unit** = muscle (motor) + tendon (spring); the muscle pre-tenses to stiffen the tendon so elastic energy can be stored and released
+- Tendons store and release energy **faster than muscles can contract** — at max sprint velocity, ground contact is ~80ms, leaving no time for a full eccentric–concentric cycle; the tendon does the work
+- Two tendon regions behave differently (Keith Baar's research):
+  - **Near muscle**: high compliance, high adaptive potential, handles shear forces
+  - **Near bone**: very stiff, structural anchor
+  - Training should develop stiffness at the bone end and compliance near the muscle end
 
 ## Key Frameworks & Progressions
 
-### Jump Type Spectrum
-- **Long ground contact time** → muscular effort dominates (e.g. two-foot box jumps)
-- **Short ground contact time** → tendinous/elastic effort dominates (e.g. one-foot approach jumps, sprint contacts)
-- Training goal: shift the system toward efficient elastic energy recycling
+### Elastic Energy Recycling Model
+- **Store**: landing loads the tendon through the linear region (~8% deformation)
+- **Reverse quickly**: short ground contact time = energy returned as upward force
+- **Leak = muscle effort**: long ground contact dissipates stored energy, forcing muscular compensation instead
 
-### Verkhoshansky's Shock Training Principles
-- Boxes: **24–30 inches** (not higher — higher boxes increase ground contact time and shift effort to muscle)
-- Landing must be stiff and almost reflexive; no conscious "absorbing"
-- Goal is **short ground contact time + crisp rebound**, not maximum jump height
-- Trains the nervous system to pre-activate muscles before contact and exploit the stretch-shortening cycle (eccentric → isometric → concentric)
+### Jump Type Spectrum
+| Type | Ground Contact | Primary Energy Source |
+|---|---|---|
+| Two-foot standing jump | Long | Muscular |
+| One-foot/approach jump | Short | Tendinous/elastic |
+| Depth jump (shock) | Very short | Elastic (tendon dominant) |
+
+### Verkhoshansky Shock Training Principles
+- Landings must be **stiff and violent** — near-unconscious reflex response
+- Goal: rapid **eccentric → isometric → concentric** stretch-shortening cycle
+- Box height: **24–30 inches** (lower is not worse — short contact time > height)
+- Higher boxes increase ground contact time → shift to muscular effort → counterproductive
+- Watch ground contact times as the quality metric, not jump height alone
 
 ### 6-Week Tendon Training Progression
 
-**Weeks 1–2: Isometrics (tendon conditioning)**
-- Load tendon at ~70% effort for **30–45 seconds**
-- Rest ~1 minute; repeat **3–5 sets**
-- Frequency: every **6 hours** (based on Keith Baar's research — tendons cannot adapt faster)
-- Purpose: builds cross-links in parallel, conditions tendon for subsequent loading
+**Weeks 1–2: Isometrics**
+- Purpose: build cross-links, condition tendons for upcoming loads
+- Protocol: 70% effort isometric holds, 30–45 seconds each
+- Sets: 3–5 per session; rest ~1 minute between sets
+- Frequency: load every 6 hours (based on Keith Baar's research — tendons cannot adapt faster)
+- Target: Achilles or patellar tendon depending on goal
 
-**Weeks 2–4: Heavy Slow Resistance (eccentric emphasis)**
-- Exercises targeting calf or quad/hip complex (e.g. slow squats, RDLs)
-- Tempo: **4 sec down / 1 sec pause / 4 sec up**
-- Sets/reps: **4×6**
-- Purpose: teaches collagen fibres to handle force progressively; increases muscle "engine size" without aggravating the tendon
+**Weeks 2–4: Heavy Slow Resistance (HSR)**
+- Purpose: train eccentric–isometric–concentric capacity; increase muscle "engine size"
+- Protocol: 4×6, tempo 4 seconds down / 1-second pause / 4 seconds up
+- Exercises: squats, calf work, RDLs (quadriceps and hip focus)
+- Goal: increase force capacity without aggravating the tendon
 
-**Weeks 4–5: Stiff Landings (store energy, no rebound)**
-- Drop from **18–24 inch box**
-- Volume: **4×6**, long rest between reps
-- Cue: tall posture, stiff torso, minimal give on landing
-- Purpose: introduces rapid high-force deformation of tendon without demanding energy recycling yet
+**Weeks 4–5: Depth Drops (Landing Primers)**
+- Purpose: expose tendon to high-load deformation without requiring energy recycling yet
+- Box height: 18–24 inches
+- Volume: 4×6 with long rest between drops
+- Cues: tall posture, stiff torso, no give in the legs on landing
+- Energy is allowed to dissipate — not yet recycled
 
-**Weeks 5–6: Depth Jumps / Shock Training (store + release)**
-- Frequency: **1–2×/week**
-- Pre-warm with several **depth drops** before depth jumps
-- Step off box (not jump), land stiff, rebound immediately with minimum ground contact
-- Metric: if ground contact time is rising or jump quality drops → box is too high
-- Purpose: trains nervous system to fully exploit elastic energy; integrates all prior adaptations
+**Weeks 5–6: Depth Jumps / Shock Training**
+- Purpose: train nervous system to pre-tense muscle, stiffen tendon, and recycle elastic energy
+- Frequency: 1–2× per week
+- Execution: step off box, minimal ground contact, immediate rebound
+- Pre-session: perform depth drops to warm up tendon
+- Quality > volume — if contact times rise, reduce box height or stop session
 
 ## Actionable Advice
 
-- Watch ground contact times as the primary quality indicator — rising GCT means energy is leaking to muscular effort
-- Use depth drops as a warm-up before depth jump sessions to prime tendon deformation
-- Keep isometric loading at 6-hour intervals to match tendon's adaptation window
-- Do not increase box height seeking more stimulus — prioritise rebound quality over height
-- Cue athletes to **reposition limbs quickly in the air** so ground contact is not delayed (relevant to approach jumps)
-- Aim for the tendon to deform ~8% at ground contact, then rapidly rebound — this is the target window for elastic energy return
+- **Measure ground contact time**, not just jump height — it is the primary indicator of whether you're using the tendon or the muscle
+- **Do depth drops before depth jumps** every session to prime tendon deformation tolerance
+- **Do not absorb force on landing** — the goal is to recycle it, not dissipate it
+- **Reposition legs quickly in approach jumps** (e.g., penultimate step) — late repositioning increases ground contact and leaks elastic energy
+- Keep plyometric volume low and quality high; ATP-CP system depletes fast and quality loss = muscular compensation
+- Use isometric loading every ~6 hours if optimising tendon cross-link development (Keith Baar protocol)
+- When selecting box height for depth jumps, choose the height that produces the crispest, shortest rebound — not the most impressive drop
 
 ## Things to Avoid
 
-- **Long ground contact times in plyometrics** — shifts training stimulus from tendon to muscle; undermines elastic training purpose
-- **Jumping from excessively high boxes** — increases GCT, dissipates rather than recycles energy, elevates injury risk
-- **Absorbing force on landing** — directly contradicts the goal; energy must be recycled, not dissipated
-- **High-rep, low-quality plyometric volume** — depletes ATP-CP system, drops quality, trains muscle fatigue rather than elastic mechanism
-- **Skipping the progression and jumping straight to depth jumps** — tendons will reach failure range unprepared, risking injury
-- **Late leg repositioning on approach jumps** — delays ground contact, increases GCT, converts elastic effort into muscular effort
+- **Long ground contact times** in plyometrics — shifts effort to muscle, negates tendon training stimulus
+- **Jumping straight into depth jumps** without progressive tendon conditioning — risk of injury at the failure range of the force-deformation curve
+- **High box depth jumps for the sake of height** — counterproductive if ground contact time increases
+- **High-rep, low-quality plyometrics** — trains muscular endurance, not elastic energy recycling
+- **"Absorbing" force on landing** — this dissipates stored elastic energy instead of recycling it
+- **Skipping the isometric and HSR phases** — these build the structural foundation needed to safely express elastic energy under shock loading
 
 ## Key Takeaways
 
-- Tendon stiffness and cross-link density determine how efficiently elastic energy is stored and returned — these are trainable qualities
-- Short ground contact time is the non-negotiable indicator of tendon-dominant jumping; all training decisions should be evaluated against it
-- The 6-week sequence (isometrics → slow eccentrics → stiff landings → depth jumps) systematically prepares the tendon before demanding elastic recycling
-- Stefan Holm exemplifies the ceiling of tendon efficiency: below-average strength metrics but elite approach jump performance due to exceptional elastic energy recycling
-- Muscles must pre-activate before ground contact to stiffen the tendon; the nervous system — not just tissue quality — is a primary training target
+- Tendon spring function depends on **collagen cross-link density and stiffness** — both are trainable through progressive loading from isometrics → slow resistance → drops → shock training
+- **Short ground contact time is the defining variable** of elastic (tendinous) vs. muscular jumping — training should optimise this
+- Verkhoshansky's shock training (depth jumps from 24–30") is specifically designed to train the **nervous system to pre-activate muscles** and use tendons as springs, not muscles as engines
+- The 6-week progression (isometrics → HSR → depth drops → depth jumps) systematically prepares tendons to handle, then recycle, high deformation loads safely
+- Athletes like Stefan Holm demonstrate that **elite elastic efficiency** can outperform raw strength metrics — approach-to-jump energy transfer is a trainable, high-value quality
