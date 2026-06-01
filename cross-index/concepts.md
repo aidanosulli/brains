@@ -1,26 +1,22 @@
 # Key Concepts: Vertical Jump Research — 2026-06-01
 
-## Individualized Training Approach
+## Jump Types and Classification
 
-- **Specific Weaknesses Assessment**: The best training program is determined by identifying and addressing your individual weaknesses rather than following the most popular approach.
-- **Application Over Information**: Correct application of training principles to individual context is more limiting than having information itself.
+- **Standing Vertical Jump**: A vertical jump performed with no approach or running start, measured from a static position.
+- **Approach/Running Vertical Jump**: A vertical jump performed with a running start or approach before takeoff, measuring a different athletic capacity than standing jumps.
 
-## Progressive Adaptation and Variety
+## Training Principles and Adaptation
 
-- **Adaptive Overload**: The body adapts only as much as the environment demands, requiring progressive overload to continue improvement.
-- **Training Variety**: Variety in training prevents plateaus by continually exposing the body to different stimuli.
-- **Simultaneous Training Principles**: Progress requires simultaneously satisfying progressive overload, variety, specificity, and individuality in program design.
+- **Body Adaptation**: The body adapts only as much as the environment demands, making variety in training essential to prevent plateaus.
+- **Strength and Speed Requirements**: Both strength and speed of force production are required for optimal vertical jump performance; neither alone is sufficient.
 
-## Strength and Power Requirements
+## Individual Assessment and Program Design
 
-- **Strength and Speed Integration**: Both strength and speed of force production are required together, as neither alone is sufficient for vertical jump improvement.
-- **Proportional Strength for Shorter Athletes**: Shorter athletes must develop proportionally greater strength than taller athletes to compensate for biomechanical disadvantages.
+- **Injury Prevention as Primary Bottleneck**: Injury prevention is the primary limiting factor in training success, as no program works if the athlete cannot execute it pain-free.
+- **Needs Analysis**: The best training program addresses an athlete's specific weaknesses and individual context rather than following the most popular approach.
+- **Progressive Overload**: One of four simultaneous requirements for progress in vertical jump training, ensuring continuous increases in training demands.
 
-## Injury Prevention and Execution
+## Genetics, Limitations, and Progression
 
-- **Pain-Free Execution**: Injury is the primary bottleneck to training success, and no program works if it cannot be executed without pain.
-
-## Genetics vs. Control
-
-- **Genetic Potential vs. Effort**: Genetics influence jump height, but improvement is always within your control regardless of starting point.
-- **Persistence Through Plateaus**: Long plateaus are normal even at elite levels, and the only true failure is quitting.
+- **Genetic Influence with Controllable Improvement**: While genetics influences jump height, improvement is always within an athlete's control regardless of starting point.
+- **Proportional Strength for Shorter Athletes**: Shorter athletes must develop proportionally greater strength than taller counterparts to achieve comparable vertical jump performance.
