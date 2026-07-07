@@ -1,22 +1,12 @@
-# Key Concepts: Vertical Jump Research — 2026-06-01
+# Key Concepts: Another Vert Brain — 2026-07-07
 
-## Jump Types and Classification
+## Vertical Jump Types and Classification
 
-- **Standing Vertical Jump**: A vertical jump performed with no approach or running start, measured from a static position.
-- **Approach/Running Vertical Jump**: A vertical jump performed with a running start or approach before takeoff, measuring a different athletic capacity than standing jumps.
+- **Vertical Jump as Umbrella Term**: Vertical jump is a broad category that encompasses any jump measured for height, with multiple valid subtypes depending on context and organizational standards.
+- **Standing Vertical Jump**: A type of vertical jump performed without a running approach or additional preparation steps.
 
-## Training Principles and Adaptation
+## Training Periodization and Macrocycle Planning
 
-- **Body Adaptation**: The body adapts only as much as the environment demands, making variety in training essential to prevent plateaus.
-- **Strength and Speed Requirements**: Both strength and speed of force production are required for optimal vertical jump performance; neither alone is sufficient.
-
-## Individual Assessment and Program Design
-
-- **Injury Prevention as Primary Bottleneck**: Injury prevention is the primary limiting factor in training success, as no program works if the athlete cannot execute it pain-free.
-- **Needs Analysis**: The best training program addresses an athlete's specific weaknesses and individual context rather than following the most popular approach.
-- **Progressive Overload**: One of four simultaneous requirements for progress in vertical jump training, ensuring continuous increases in training demands.
-
-## Genetics, Limitations, and Progression
-
-- **Genetic Influence with Controllable Improvement**: While genetics influences jump height, improvement is always within an athlete's control regardless of starting point.
-- **Proportional Strength for Shorter Athletes**: Shorter athletes must develop proportionally greater strength than taller counterparts to achieve comparable vertical jump performance.
+- **Fatigue-Fitness Model**: A performance model stating that overall performance equals fitness level minus accumulated fatigue, which macrocycles leverage by sequencing training to dissipate fatigue while maintaining fitness peaks.
+- **Progressive Overload**: A training principle where each mesocycle builds upon the previous one through sequential progression of volume, intensity, strength, power, speed, and specificity adaptations.
+- **Mesocycle**: A training block within a macrocycle that focuses on specific adaptations as part of a structured progression toward peak performance.
