@@ -1,19 +1,25 @@
 # Shared Themes: Another Vert Brain — 2026-07-07
 
-## Vertical Jump Types and Classification
+## Jump Training Programming & Structure
 
-Understanding different categories of vertical jumps and how they are measured and distinguished from one another
+Systematic approaches to organizing jump training through periodization, phases, and progressive overload across macrocycles and mesocycles
+
+**Sources:** Sportsmetrics 6-Week Jump Training Program Structure and Exercises, Six-Mesocycle Macrocycle Blueprint for a 40-Inch Vertical Leap
+
+## Vertical Jump Types & Measurement
+
+Different classifications and measurement methods for vertical jumps, including standing versus maximum approaches
 
 **Sources:** Standing vs Max Vertical Jump — Understanding the Key Distinctions
 
-## Training Periodization and Macrocycle Design
+## Performance Targets & Requirements
 
-Structuring training programs over extended periods using mesocycles to balance fatigue and fitness accumulation
+Specific vertical jump height goals and the strength/fitness requirements needed to achieve elite-level performance
 
-**Sources:** Six-Mesocycle Macrocycle Blueprint for a 40-Inch Vertical Leap
+**Sources:** Strength Requirements for a 52.5-Inch Vertical Jump, Six-Mesocycle Macrocycle Blueprint for a 40-Inch Vertical Leap
 
-## Elite Vertical Jump Performance Standards
+## Training Load Management
 
-Examining exceptional vertical jump measurements and the requirements needed to achieve world-class level performance
+Methods for controlling training intensity, volume, and fatigue to optimize adaptation and prevent overtraining
 
-**Sources:** Strength Requirements for a 52.5-Inch Vertical Jump
+**Sources:** Sportsmetrics 6-Week Jump Training Program Structure and Exercises, Six-Mesocycle Macrocycle Blueprint for a 40-Inch Vertical Leap
