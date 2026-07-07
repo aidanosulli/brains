@@ -1,25 +1,13 @@
-# Shared Themes: Vertical Jump Research — 2026-06-01
+# Shared Themes: Another Vert Brain — 2026-07-07
 
-## Jump Types and Classification
+## Vertical Jump Types and Classification
 
-Understanding different categories of vertical jumps and their distinctions
+Understanding different categories of vertical jumps and their distinctions in measurement and application across sports contexts
 
-**Sources:** Standing vs Max Vertical Jump — Key Distinctions Explained
+**Sources:** Standing vs Max Vertical Jump — Understanding the Key Distinctions
 
-## Training Principles and Adaptation
+## Training Periodization and Macrocycle Planning
 
-Core principles for improving vertical jump performance through structured training
+Structuring long-term training programs using mesocycles and macrocycles to optimize performance peaks while managing fatigue and fitness adaptations
 
-**Sources:** Three-Phase Blueprint for Increasing Vertical Jump and Dunking, Volleyball Vertical Jump Training: Needs Analysis and Program Design
-
-## Individual Assessment and Program Design
-
-Tailoring training programs to address specific athlete weaknesses and contexts
-
-**Sources:** Volleyball Vertical Jump Training: Needs Analysis and Program Design
-
-## Genetics, Limitations, and Progression
-
-Understanding the role of genetics, physical constraints, and realistic progression timelines
-
-**Sources:** Three-Phase Blueprint for Increasing Vertical Jump and Dunking
+**Sources:** Six-Mesocycle Macrocycle Blueprint for a 40-Inch Vertical Leap
