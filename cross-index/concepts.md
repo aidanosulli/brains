@@ -2,11 +2,11 @@
 
 ## Vertical Jump Types and Classification
 
-- **Vertical Jump as Umbrella Term**: Vertical jump is a broad category that encompasses any jump measured for height, with multiple valid subtypes depending on context and organizational standards.
-- **Standing Vertical Jump**: A type of vertical jump performed without a running approach or additional preparation steps.
+- **Vertical Jump Definition**: Vertical jump is an umbrella term that simply means jumping for height in a vertical direction.
+- **Standing Vertical Jump**: A type of vertical jump performed without any approach or run-up.
 
-## Training Periodization and Macrocycle Planning
+## Training Periodization and Macrocycle Design
 
-- **Fatigue-Fitness Model**: A performance model stating that overall performance equals fitness level minus accumulated fatigue, which macrocycles leverage by sequencing training to dissipate fatigue while maintaining fitness peaks.
-- **Progressive Overload**: A training principle where each mesocycle builds upon the previous one through sequential progression of volume, intensity, strength, power, speed, and specificity adaptations.
-- **Mesocycle**: A training block within a macrocycle that focuses on specific adaptations as part of a structured progression toward peak performance.
+- **Fatigue-Fitness Model**: Performance is a function of fitness minus fatigue, where high training loads build fitness but also accumulate fatigue that must be managed across macrocycles.
+- **Progressive Overload**: Each mesocycle builds on the previous one through a structured progression: volume → intensity → strength → power → speed → specificity.
+- **Mesocycle Sequencing**: Training blocks are sequenced to exploit adaptations so that fatigue dissipates and fitness peaks at the optimal time for competition.
