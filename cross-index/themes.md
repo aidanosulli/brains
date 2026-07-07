@@ -2,12 +2,18 @@
 
 ## Vertical Jump Types and Classification
 
-Understanding different categories of vertical jumps and their distinctions in measurement and application across sports contexts
+Understanding different categories of vertical jumps and how they are measured and distinguished from one another
 
 **Sources:** Standing vs Max Vertical Jump — Understanding the Key Distinctions
 
-## Training Periodization and Macrocycle Planning
+## Training Periodization and Macrocycle Design
 
-Structuring long-term training programs using mesocycles and macrocycles to optimize performance peaks while managing fatigue and fitness adaptations
+Structuring training programs over extended periods using mesocycles to balance fatigue and fitness accumulation
 
 **Sources:** Six-Mesocycle Macrocycle Blueprint for a 40-Inch Vertical Leap
+
+## Elite Vertical Jump Performance Standards
+
+Examining exceptional vertical jump measurements and the requirements needed to achieve world-class level performance
+
+**Sources:** Strength Requirements for a 52.5-Inch Vertical Jump
